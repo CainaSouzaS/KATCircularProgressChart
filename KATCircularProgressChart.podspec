@@ -32,7 +32,7 @@ s.description      = <<-DESC
 
   #s.ios.deployment_target = '8.0'
 
-  s.source_files = 'KATCircularProgressChart/Classes/**/*'
+  s.source_files = 'Classes/*'
   
   # s.resource_bundles = {
   #   'KATCircularProgressChart' => ['KATCircularProgressChart/Assets/*.png']
